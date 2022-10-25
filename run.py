@@ -33,6 +33,7 @@ def parse_opt():
     parser.add_argument('--space', type=int, default=600, help='length of the x axis of the fourier series (space/fps=video length(s))')
     opt = parser.parse_args()
     return opt
+
 if __name__ == '__main__':
 
     opt = parse_opt()
