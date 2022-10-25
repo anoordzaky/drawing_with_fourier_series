@@ -13,7 +13,7 @@ To install required modules:
 ```
 pip install -r requirements.txt
 ```
-Also need to install FFMPEG from here https://ffmpeg.org/
+<p>Also need to install FFMPEG from here https://ffmpeg.org/</p>
 Useful article on installing FFMPEG: https://suryadayn.medium.com/error-requested-moviewriter-ffmpeg-not-available-easy-fix-9d1890a487d3
 ## Running the script
 ```
